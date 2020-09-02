@@ -27,7 +27,7 @@ let result = 0
 let offset = 0
 let id = 0
 radio.setGroup(99)
-id = 3
+id = 4
 offset = 0
 basic.forever(function () {
     for (let index = 0; index <= 4; index++) {
